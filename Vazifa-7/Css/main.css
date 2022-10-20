@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    font-family: sans-serif;
+}
+.wrapper{
+    width: 98vw;
+    margin: 0 auto;
+    background-color:rgb(32, 29, 29);
+}
+header{
+    width: 100%;
+    display: flex;
+    padding: 3px 10px;
+    gap: 40px;
+    align-items: center;
+    text-align: center;
+    
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    color: white;
+}
+.a{
+    font-weight: 500;
+    color: blueviolet;
+    
+}
+button{
+    background-color: rgb(101, 101, 199);
+    color: white;
+    border: 1px solid rgb(101, 101, 199);
+    border-radius: 5%;
+    padding: 7px 10px;
+    margin-left: 60px;
+}
+main{
+    display: flex;
+    padding-left: 10px;
+}
+p{
+    font-size: 20;
+    margin-top: 20px;
+}
+.box-1{
+    width: 50%;
+    margin-top: 80px;
+
+}
+.box-2{
+    width: 50%;
+
+}
+h1{
+    font-size: 65px;
+    margin-top: 20px;
+}
+.box-1 button{
+    margin-left: 0;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.img{
+    margin-top:20px ;
+    margin-left: 10px;
+}
+.box-3 h2{
+    font-size: 40px;
+    margin-top: 200px;
+}
+.button-4{
+    background-color: rgb(101, 101, 199);
+    color: white;
+    border: 1px solid rgb(101, 101, 199);
+    border-radius: 5%;
+    padding: 7px 10px;
+    margin-left: 0;
+    margin-top: 30px;
+}
+.blocks{
+  width: 100vw;
+  display: flex;
+  gap: 15px;
+  margin: 50px;
+}
+.block-1{
+    width: 240px;
+    background-color: rgb(85, 56, 56);
+    text-align: center;
+    color: rgb(127, 127, 168);
+}
+.block-1 p strong{
+    margin-top: 15px;
+}
+.img-2{
+    height: 100px;
+}
+.main{
+    width:100%;
+    display: flex;
+    justify-content: center;
+}
+.box-4{
+    width: 40%;
+    height: 600px;
+
+}
+.box-5{
+    width: 40%;
+    height: 600px;
+}
+.box-4 h2{
+ font-size: 40px;
+ margin-top: 50px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(82, 42, 42);
+    padding:  10px;
+
+}
+ul li{
+    list-style: none;
+    margin-top: 18px;
+}
+.footer-box{
+    margin-top: 17px;
+}
+.footer-box-1{
+    margin-top: 25;
+}
+nav{
+    margin-top: 1rem;
+}

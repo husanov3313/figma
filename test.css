@@ -1,0 +1,29 @@
+body{
+    background-color:lavender
+}
+.wrapper{
+    width: 1200px;
+    margin: 0 auto;
+}
+header{
+    background-color: rgb(63, 50, 50);
+    height: auto;
+    padding: 5px;
+}
+ul{
+    display: flex;
+    gap: 40px;
+    justify-content: end;
+    margin-right: 40px;
+}
+a{
+        text-decoration: none;
+        color: white;
+
+}
+ul li{
+        list-style: none;
+}
+main{
+    background-color: blueviolet;
+}
